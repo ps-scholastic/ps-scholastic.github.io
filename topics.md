@@ -4,4 +4,4 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 
 | User | Formal Education | Hobbies | Specialties |
 |-|-|-|-|
-| Struchni | Mathematics, physics, programming | ... | Applied mathematics, particle physics, quantum mechanics, quantum field theory |
+| Struchni | Mathematics, physics, programming | 3D modelling, urban exploration | Applied mathematics, particle physics, quantum mechanics, quantum field theory |
