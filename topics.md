@@ -12,6 +12,7 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 | mlglgbt | History, biology, history of medicine | A cappella, improv comedy, geopolitics/international studies, Russian lit, US politics | History of disease concepts, history of plague, Russian history, 19th century diplomacy, epidemic disease, genomics |
 | Morfent |  | Origami | Computer science |
 | Numera | Mathematics | Chess | Linear algebra |
+| Plat0 | Physics | Computer science, chess |  |
 | Quadrophenic | History, religion, philosophy | Writing, reading, cosplaying, video games, competitive trivia and quizzing | US history, biblical studies, history of religion |
 | Struchni | Mathematics, physics, programming | 3D modelling, urban exploration | Applied mathematics, particle physics, quantum mechanics, quantum field theory |
 | verbatim | Computer science, anthropology |  |  |
