@@ -4,6 +4,7 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 
 | User | Formal Education | Hobbies | Specialties |
 |-|-|-|-|
+| Caesar Augustus | Accounting, licensed CPA | Piano, swimming, equity trading | Accounting, tax, financial regulation |
 | ConicSans | Neuroscience | Piano, violin | Science, music |
 | fart | JD candidate, BA in criminal justice, psychology, & political science |  | Criminal procedure, abnormal psychology, college planning, civil rights |
 | Fearfire22 | BS in biochemistry and cellular/molecular biology, MS in biotechnology | PC gaming, music, current events, science news | Pharmaceutical industry: regulatory, clinical, research, structure, financial |
