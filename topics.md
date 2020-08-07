@@ -4,6 +4,7 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 
 | User | Formal Education | Hobbies | Specialties |
 |-|-|-|-|
+| Aethernum | Computer science | Gaming, science, computer science, global politics, sci-fi fantasy, current events |  |
 | Caesar Augustus | Accounting, licensed CPA | Piano, swimming, equity trading | Accounting, tax, financial regulation |
 | ConicSans | Neuroscience | Piano, violin | Science, music |
 | Failsal | Software engineering | Anime, manga, video games |  |
@@ -16,5 +17,6 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 | Numera | Mathematics | Chess | Linear algebra |
 | Plat0 | Physics | Computer science, chess |  |
 | Quadrophenic | History, religion, philosophy | Writing, reading, cosplaying, video games, competitive trivia and quizzing | US history, biblical studies, history of religion |
+| rxdb | Economics | Maximizing utilization of money, games of the mental persuasion, current issues and sustainability | Economics |
 | Struchni | Mathematics, physics, programming | 3D modelling, urban exploration | Applied mathematics, particle physics, quantum mechanics, quantum field theory |
 | verbatim | Computer science, anthropology |  |  |
