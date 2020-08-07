@@ -18,6 +18,7 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 | Numera | Mathematics | Chess | Linear algebra |
 | Plat0 | Physics | Computer science, chess |  |
 | Quadrophenic | History, religion, philosophy | Writing, reading, cosplaying, video games, competitive trivia and quizzing | US history, biblical studies, history of religion |
+| RedzoneX | Mathematics | Rhythm games, running, tabletop RPGs and board games | Linear algebra, computer science, Spanish |
 | rxdb | Economics | Maximizing utilization of money, games of the mental persuasion, current issues and sustainability | Economics |
 | Struchni | Mathematics, physics, programming | 3D modelling, urban exploration | Applied mathematics, particle physics, quantum mechanics, quantum field theory |
 | verbatim | Computer science, anthropology |  |  |
