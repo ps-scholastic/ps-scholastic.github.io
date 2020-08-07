@@ -6,6 +6,7 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 |-|-|-|-|
 | Caesar Augustus | Accounting, licensed CPA | Piano, swimming, equity trading | Accounting, tax, financial regulation |
 | ConicSans | Neuroscience | Piano, violin | Science, music |
+| Failsal | Software engineering | Anime, manga, video games |  |
 | fart | JD candidate, BA in criminal justice, psychology, & political science |  | Criminal procedure, abnormal psychology, college planning, civil rights |
 | Fearfire22 | BS in biochemistry and cellular/molecular biology, MS in biotechnology | PC gaming, music, current events, science news | Pharmaceutical industry: regulatory, clinical, research, structure, financial |
 | Garrett16 | Political science, American history | Exercise, climbing | Democracy, methodology of political science |
