@@ -13,6 +13,7 @@ Ever wanted to start a conversation in Scholastic but weren't sure what to talk 
 | Garrett16 | Political science, American history | Exercise, climbing | Democracy, methodology of political science |
 | Held von Ideale | Cellular/molecular biology |  |  |
 | Hippopotas | Software engineering | Anime, manga, video games | Chinese news and current events, life in the Bay Area |
+| IWouldPreferNotTo | Biology | Political polling, animals, nutrition/fitness |  |
 | mlglgbt | History, biology, history of medicine | A cappella, improv comedy, geopolitics/international studies, Russian lit, US politics | History of disease concepts, history of plague, Russian history, 19th century diplomacy, epidemic disease, genomics |
 | Morfent |  | Origami | Computer science |
 | Numera | Mathematics | Chess | Linear algebra |
